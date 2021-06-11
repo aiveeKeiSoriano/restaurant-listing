@@ -1,5 +1,5 @@
 # Restaurant Listing Website
 
-![](./filtered.jpg)
-![](./notFiltered.jpg)
+![](./screenshots/filtered.jpg)
+![](./screenshots/notFiltered.jpg)
 
